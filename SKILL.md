@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-participial-causal-chaining
-description: "Use trailing participial phrases to document deterministic causality and side effects." Use this when working on fitzpatrick participial causal chaining.
+description: "Use trailing participial phrases to document deterministic causality and side effects. Use this when working on fitzpatrick participial causal chaining."
 category: "Writing & Communication"
 triggers:
   - "participial phrase"
