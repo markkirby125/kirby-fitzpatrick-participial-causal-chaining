@@ -9,7 +9,7 @@ triggers:
   - "which leads to refactor"
   - "deterministic causality"
 risk: unverified
-author: william-fitzpatrick
+author: paul-kirby
 tags: [kirby, ai-agent, workflow]
 ---
 
